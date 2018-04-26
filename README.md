@@ -1,5 +1,4 @@
-免费、中文、零基础，完整的项目，基于最新版 Django 1.10 和 Python 3.5。带你从零开始一步步开发属于自己的博客网站，帮助你以最快的速度掌握 Django 开发的技巧。
-
+基于最新版 Django 1.10 和 Python 3.5
 ## 资源列表
 
 - 项目演示：[Demo](http://demo.zmrenwu.com/)
@@ -7,13 +6,7 @@
 - 博客模板：[Blog templates](https://github.com/zmrenwu/django-blog-tutorial-templates)
 - 答疑与求助：[Pythonzhcn - Python 中文社区](http://www.pythonzh.cn/)
 
-## 分支说明
 
-每篇教程的代码都位于项目相应的分支中，点击上方的 **Branch** 按钮可以查看到，例如分支 Step1_build-development-environment 对应第 1 篇教程 [1 - 搭建开发环境](http://zmrenwu.com/post/3/)。
-
-master 主分支是项目的完整代码。
-
-demo 分支是演示项目的分支代码。
 
 ## 在本地运行项目
 
